@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Raden SUkmana**.<br>
+Perkenalkan nama saya **Raden Sukmana**.<br>
 
 Saya seorang **Pelajar** di [Dicoding](https://www.dicoding.com/).<br>
 
