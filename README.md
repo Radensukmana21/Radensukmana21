@@ -1,5 +1,10 @@
-## Hi there 👋
+# Halo semua! 
 
+Perkenalkan nama saya **Raden SUkmana**.<br>
+
+Saya seorang **Pelajar** di [Dicoding](https://www.dicoding.com/).<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/sukxzss/#) ku ya.
 <!--
 **Radensukmana21/Radensukmana21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
