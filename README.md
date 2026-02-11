@@ -1,21 +1,51 @@
-# Halo semua! 
+# Hi 👋 I'm Raden Sukmana
 
-Perkenalkan nama saya **Raden Sukmana**.<br>
+🚀 Backend & AI Enthusiast  
+📍 Indonesia  
 
-Saya seorang **Pelajar** di [Dicoding](https://www.dicoding.com/).<br>
+I build scalable backend systems and intelligent applications using Python, FastAPI, and Machine Learning.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/sukxzss/#) ku ya.
-<!--
-**Radensukmana21/Radensukmana21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔥 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Hybrid AI Chatbot API
+FastAPI-based chatbot with:
+- Hybrid ML (SVM + Naive Bayes Ensemble)
+- Confidence Arbitration Layer
+- Rule-Based Override Engine
+- Context Memory System
+- Auto-Retrain Pipeline
+- Laravel Database Integration
+
+🔗 https://github.com/Radensukmana21/chatbot-hybrid-api
+
+---
+
+### 📊 Monitoring Dashboard
+Real-time monitoring system with data visualization and analytics.
+
+---
+
+### 🧠 ML Streamlit App
+Interactive ML application built with Streamlit.
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- FastAPI
+- Laravel
+- MySQL
+- Scikit-Learn
+- Docker
+- SQLAlchemy
+- APScheduler
+
+---
+
+## 📫 Connect With Me
+
+- Instagram: (https://www.instagram.com/sukxzss/#)
+- LinkedIn: (https://www.linkedin.com/in/raden-sukmana/)
