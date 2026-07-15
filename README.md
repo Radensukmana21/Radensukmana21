@@ -1,51 +1,121 @@
-# Hi 👋 I'm Raden Sukmana
+# Hi there, I'm Raden Sukmana
 
-🚀 Backend & AI Enthusiast  
-📍 Indonesia  
+<div align="center">
 
-I build scalable backend systems and intelligent applications using Python, FastAPI, and Machine Learning.
+### Backend Developer • AI Enthusiast • Machine Learning
+
+Building scalable backend systems, REST APIs, and intelligent applications using Python, FastAPI, Laravel, and Machine Learning.
+
+📍 Bandung, Indonesia
+
+</div>
 
 ---
 
-## 🔥 Featured Projects
+## About Me
 
-### 🤖 Hybrid AI Chatbot API
-FastAPI-based chatbot with:
-- Hybrid ML (SVM + Naive Bayes Ensemble)
+- Computer Science Student
+- Interested in Backend Development, Artificial Intelligence, and Data Management
+- Currently learning scalable API architecture and Machine Learning deployment
+- Passionate about solving real-world problems through software
+
+---
+
+## Featured Projects
+
+### Hybrid AI Chatbot API
+An intelligent chatbot backend powered by Machine Learning and FastAPI.
+
+**Highlights**
+- Hybrid Classification (SVM + Naive Bayes)
 - Confidence Arbitration Layer
 - Rule-Based Override Engine
-- Context Memory System
-- Auto-Retrain Pipeline
-- Laravel Database Integration
+- Context Memory
+- Auto Retraining Pipeline
+- Laravel Integration
+- RESTful API
 
-🔗 https://github.com/Radensukmana21/chatbot-hybrid-api
-
----
-
-### 📊 Monitoring Dashboard
-Real-time monitoring system with data visualization and analytics.
+Repository:
+https://github.com/Radensukmana21/chatbot-hybrid-api
 
 ---
 
-### 🧠 ML Streamlit App
-Interactive ML application built with Streamlit.
+### Monitoring Dashboard
 
----
+A monitoring dashboard for visualizing operational data in real time.
 
-## 🛠 Tech Stack
-
-- Python
-- FastAPI
+**Tech**
 - Laravel
 - MySQL
-- Scikit-Learn
-- Docker
+- Chart.js
+
+---
+
+### Machine Learning Apps
+
+Collection of Machine Learning projects developed using Python and Streamlit.
+
+- Data Classification
+- Prediction Models
+- Interactive Dashboard
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+- Python
+- PHP
+- SQL
+- JavaScript
+
+### Backend
+
+- FastAPI
+- Laravel
 - SQLAlchemy
+- REST API
+
+### Machine Learning
+
+- Scikit-Learn
+- Pandas
+- NumPy
+- TF-IDF
+- SVM
+- Naive Bayes
+
+### Database
+
+- MySQL
+- SQLite
+
+### DevOps & Tools
+
+- Docker
+- Git
+- GitHub
+- Postman
 - APScheduler
 
 ---
 
-## 📫 Connect With Me
+## GitHub Stats
 
-- Instagram: (https://www.instagram.com/sukxzss/#)
-- LinkedIn: (https://www.linkedin.com/in/raden-sukmana/)
+<!-- github-readme-stats -->
+<!-- Top Languages -->
+<!-- Streak Stats -->
+
+---
+
+## Connect With Me
+
+- GitHub: https://github.com/Radensukmana21
+- LinkedIn: https://www.linkedin.com/in/raden-sukmana/
+- Instagram: https://www.instagram.com/sukxzss/
+- Email: radensukmana2111@gmail.com
+
+---
+
+Always interested in Backend Engineering, AI, and Open Source Collaboration.
