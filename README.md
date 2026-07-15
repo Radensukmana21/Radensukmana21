@@ -103,13 +103,9 @@ Collection of Machine Learning projects developed using Python and Streamlit.
 
 ## GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radensukmana21&show_icons=true&theme=github_dark)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Radensukmana21&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radensukmana21&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800)"/>
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Radensukmana21&layout=compact&theme=github_dark)
 
 ---
 
